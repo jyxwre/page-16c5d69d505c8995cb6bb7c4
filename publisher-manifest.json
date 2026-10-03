@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "8964ce0fc81b6cf40b78e6f6",
+  "owner": "jyxwre",
+  "repo": "page-16c5d69d505c8995cb6bb7c4",
+  "title": "快银",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "16c5d69d505c8995cb6bb7c4",
+      "a": "快银",
+      "b": "",
+      "entity": "快银",
+      "brand": "快银",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e9f9d013c76bd1fd981b9faea29166e2dccb1c082ec1b1c98fb38eef22b0d843",
+      "content": {
+        "keyword1": "快银",
+        "keyword2": "",
+        "primary_entity": "快银",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快银提供高速稳定的VPN机场订阅与网络加速服务，支持多设备客户端下载，轻松解锁流媒体并优化游戏与办公体验。欢迎访问快银官方网站了解套餐详情与配置流程。",
+          "AI_DESCRIPTION": "快银提供高速稳定的VPN机场订阅与网络加速服务，支持多设备客户端下载，轻松解锁流媒体并优化游戏与办公体验。欢迎访问快银官方网站了解套餐详情与配置流程。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{background-color:#F7F4EF;color:#1A2A22;font-family:system-ui,-apple-system,\"Segoe UI\",Roboto,sans-serif;font-size:16px;line-height:1.7;margin:0;overflow-x:hidden;word-wrap:break-word}header{padding:64px 20px 28px;text-align:center}h1{font-size:2.6rem;font-weight:700;color:#1B4D3E;margin:0 0 16px;letter-spacing:.06em}.lead{font-size:1.05rem;color:#3D5348;max-width:36em;margin:0 auto 20px}header nav{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 14px;margin:0 0 8px}header nav a{color:#1B4D3E;text-decoration:none;font-weight:600;font-size:.95rem}main{max-width:640px;margin:0 auto;padding:0 18px 48px}h2{font-size:1.45rem;color:#1B4D3E;margin:36px 0 14px;padding-bottom:6px;border-bottom:2px solid #2D6A4F}h3{font-size:1.12rem;color:#2D6A4F;margin:22px 0 8px}p{margin:0 0 12px}.plans{display:flex;flex-direction:column;gap:14px;margin:16px 0}.plan{background:#FFFAf5;border:1px solid #C5D5C8;border-radius:10px;padding:18px 16px}.plan.featured{border:3px solid #1B4D3E;background:#E7F0EA}.price{font-size:1.35rem;font-weight:700;color:#1B4D3E;margin:4px 0}.annual{font-size:.88rem;color:#4A5C52;margin:0 0 10px}.features{margin:8px 0 12px;padding-left:1.25em}.features li{margin-bottom:4px}details{background:#FFFAf5;border:1px solid #C5D5C8;border-radius:8px;margin:8px 0;padding:2px 14px}summary{font-weight:600;color:#1B4D3E;padding:12px 0}details p{color:#3D5348;margin:0 0 14px}.ads,.friends{background:#EFEBE3;padding:16px 16px 8px;margin:28px 0;border-radius:10px}.ads h2,.friends h2{margin-top:0;border:none;font-size:1.2rem}footer{background-color:#1B4D3E;color:#E8F5E9;padding:32px 18px;font-size:.9rem}.footer-inner{max-width:640px;margin:0 auto}footer a{color:#B7E4C7}footer p{margin:0 0 10px}.sitemap{list-style:none;padding:0;margin:8px 0 16px;display:flex;flex-wrap:wrap;gap:8px 16px}.sitemap a{color:#D8F3DC}a{color:#1B4D3E}</style><header><nav><a href=\"#about\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#plans\">套餐价格</a><a href=\"#faq\">常见问题</a><a href=\"#download\">客户端下载</a></nav><h1>快银</h1><p class=\"lead\">快银官方网站为您提供专业 VPN 机场订阅、网络加速梯子与多平台客户端下载服务。稳定节点、原生解锁、简单配置，从今天开始畅快上网。</p></header><main><section id=\"about\"><h2>品牌简介</h2><p>快银专注于高质量网络加速解决方案。我们运营自主优化的节点网络，覆盖亚洲、北美、欧洲主要地区，采用 IPLC 专线与智能分流技术，降低延迟、提升稳定性。快银是为长期使用设计的机场订阅服务：一次订阅，多端同步，节点自动更新。</p><p>无论您是需要访问国际学术资源的研究人员、观看海外流媒体的家庭用户，还是追求低延迟的游戏玩家，快银都能提供对应的线路与流量方案。我们坚持透明定价，并提供清晰的配置文档，让第一次使用的用户也能在几分钟内完成连接。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>远程办公与视频会议</h3><p>通过快银优质线路，跨境团队可稳定使用常见会议与协作工具，减少卡顿与掉线。智能路由自动选择较优出口，保障会议体验。</p><h3>流媒体娱乐解锁</h3><p>旗舰版及以上套餐支持主流流媒体平台的原生解锁，高清播放更流畅。普通线路亦可应对日常视频需求。</p><h3>在线游戏加速</h3><p>针对热门游戏优化的 IPLC 游戏节点，有助于降低国际服延迟。旗舰版特别强化游戏加速通道。</p><h3>学习与资料检索</h3><p>访问学术检索、代码托管与技术问答站点更加顺畅，适合学生与开发者日常使用。</p></section><section id=\"guide\"><h2>配置流程</h2><p>快银强调简单可落地的配置体验。请按照以下四个步骤完成从开通到上网的全过程。整个流程通常不超过十分钟。</p><h3>第一步：选择并开通套餐</h3><p>根据每月流量、同时在线设备数和是否需要全解锁、游戏优化来选择基础版、旗舰版或团队版。年付可享受折扣。开通后您将立即获得专属机场订阅链接，Clash、Surge 与通用格式均可使用。</p><h3>第二步：下载对应客户端</h3><p>前往本页「官方客户端下载」区域，根据设备选择软件。Windows 可选用 Clash Verge 或 v2rayN；macOS 可选用 Clash 系或 Surge；iOS 常用 Shadowrocket 或 Stash；Android 常用 Clash Meta 或 NekoBox。请从可信渠道获取，避免来路不明的修改版。</p><h3>第三步：导入订阅</h3><p>打开客户端，找到订阅或配置栏，粘贴快银订阅地址并更新。客户端将自动拉取节点、规则与分流策略。建议开启自动更新，保持节点可用。</p><h3>第四步：选择节点并启动连接</h3><p>在节点列表中挑选延迟较低的入口，开启系统代理或 TUN 模式后测试连通。遇到问题可切换节点。旗舰与团队用户享有优先工单通道。</p></section><section id=\"plans\"><h2>套餐价格</h2><p>所有套餐均含高速流量、基础安全传输与多协议支持。流量按自然月重置，未用完不结转。以下为官网标准价。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"features\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#guide\">查看配置步骤</a></p></div><div class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"features\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#guide\">立即了解如何配置</a></p></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"features\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#guide\">团队配置说明</a></p></div></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>快银机场订阅支持哪些客户端？</summary><p>快银兼容主流代理客户端，包括 Clash 系列、Shadowrocket、Quantumult X、Surge、Stash、v2rayN、sing-box、NekoBox 等。一份订阅可在多端使用，节点与规则自动同步。</p></details><details><summary>如何从快银官网下载客户端并保证安全？</summary><p>请仅通过本站客户端下载指引或各系统可信发布渠道获取软件。快银不捆绑来路不明的安装包。下载后导入您的专属订阅链接即可使用节点。</p></details><details><summary>配置完成后无法连接怎么办？</summary><p>请确认订阅已成功更新、系统时间准确、未开启其他冲突代理。尝试切换节点或更换协议。仍无法解决时，旗舰版与团队版用户可通过优先工单联系支持，也可对照配置流程逐步检查。</p></details><details><summary>流量耗尽或需要更多设备怎么办？</summary><p>可在订阅期内升级到更高套餐，流量与设备数按新套餐生效。团队版适合多人共用。请避免过度分享账号，以免影响稳定性。</p></details><details><summary>快银是否提供退款或试用？</summary><p>因数字服务在开通后即交付订阅链接，原则上不支持无理由退款。建议新用户先选择基础版体验节点与解锁效果。遇大规模故障时会通过公告说明处理方式。</p></details><details><summary>快银如何看待隐私与日志？</summary><p>快银仅保留必要的连接元数据用于故障排查与滥用防护，不保存浏览内容，传输使用加密协议。具体约定以开通时的服务说明为准，建议使用前阅读。</p></details></section><section id=\"download\"><h2>官方客户端下载</h2><p>快银提供机场订阅，客户端为常用开源或第三方软件。请按设备选择，并从可信渠道获取最新版。导入快银订阅后即可使用节点。</p><h3>桌面端</h3><p>Windows 可选用 Clash Verge、v2rayN。macOS 可选用 Clash 系客户端或 Surge。Linux 可选用 Clash Meta 或 sing-box。</p><h3>移动端</h3><p>iOS 常用 Shadowrocket、Stash、Quantumult X。Android 常用 Clash Meta for Android、NekoBox。</p><p>下载完成后回到配置流程第三步导入订阅。本站以指引兼容性为主，安装包请以各项目官方发布为准。</p><p><a href=\"#guide\">返回配置流程</a> · <a href=\"#plans\">查看套餐</a></p></section><section class=\"ads\" id=\"ads\"><h2>合作与推广</h2><p>快银欢迎内容与社区合作。如需推广置换或批量方案，请通过官网公示渠道联系。展示位预留如下：</p><p><a href=\"#\">技术社区合作</a> · <a href=\"#\">工具导航推荐</a> · <a href=\"#\">开发者资源站</a></p></section><section class=\"friends\" id=\"friends\"><h2>友情链接</h2><p>相关工具与信息站点（无排名含义）：</p><p><a href=\"#\">网络工具百科</a> · <a href=\"#\">开源客户端指引</a> · <a href=\"#\">分流规则分享</a> · <a href=\"#\">延迟测试平台</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"footer-inner\"><p>快银官方网站 · 网络加速与机场订阅服务</p><p>本页提供品牌介绍、套餐说明、配置流程与客户端指引，便于用户快速上手。</p><nav id=\"sitemap\" aria-label=\"网站地图\"><p>网站地图：</p><ul class=\"sitemap\"><li><a href=\"#about\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#plans\">套餐价格</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#ads\">合作推广</a></li><li><a href=\"#friends\">友情链接</a></li></ul></nav><p>© 快银。使用服务即表示了解相关说明。访问 <a href=\"#\">快银官网</a> 获取最新信息。</p></div></footer>",
+          "hash": "2dce50a5cb910ddc1c14da2b14bab47976010d4041fcd19487935ca49ffae9ae",
+          "seo": {
+            "title": "快银官网｜VPN梯子网络加速、机场订阅与官方客户端下载",
+            "keywords": "快银,快银VPN,快银机场,快银官网,VPN,梯子,网络加速,加速器,机场订阅,客户端下载,官方下载,Clash客户端",
+            "description": "快银提供高速稳定的VPN机场订阅与网络加速服务，支持多设备客户端下载，轻松解锁流媒体并优化游戏与办公体验。欢迎访问快银官方网站了解套餐详情与配置流程。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rgbba.cn",
+    "host": "p-2d91582641.rgbba.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "rgbba.cn",
+      "url": "https://rgbba.cn/",
+      "label": "BkCloud",
+      "apex": "rgbba.cn",
+      "kind": null,
+      "identity": "hvkyfxhtd/page-0fa8c1ffa7b5600385fdc3d9"
+    },
+    {
+      "host": "il7xnqq.cn",
+      "url": "https://il7xnqq.cn/",
+      "label": "快银",
+      "apex": "il7xnqq.cn",
+      "kind": null,
+      "identity": "jdtknry/page-7623c9141012ca638d7fd7ca"
+    },
+    {
+      "host": "shandianmaogw.com",
+      "url": "https://shandianmaogw.com/",
+      "label": "快银",
+      "apex": "shandianmaogw.com",
+      "kind": null,
+      "identity": "pbgkqv/page-da4342578ab9c12435cace8e"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a60d2011e43bc710b7b2b28d267070ed04328bf1e30b6e69b378c43145140584",
+    "sitemap.xml": "2abed8d4ea64834712abaa729380e6ed0405cd3fd092e374db56356f3629a2e4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "813f525a0f760f37f54c9ed232314154cb2a42bb8da8e766a009b819ca938a76",
+    "robots.txt": "d30d026353d425ff34627de7da33bc2c19512e50ce42fac1c027e18cf85560fd",
+    "fad2a53af630e9ac08ff4409103c56ae.txt": "3daf9185529a240385c8382f6cb8d9715ca0cd2fc8215699b971dbb69b3518f5"
+  },
+  "revision": "ec1e682d39eb7d6a6ef56b35c894075543abe9a1411c3bc4661682b3d1b5f24d"
+}
